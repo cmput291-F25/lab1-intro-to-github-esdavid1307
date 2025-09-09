@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name: Edwin Shaiju David
+CCID: 1878574
+Lecture: Lec A3
+Lab: Lab D05
